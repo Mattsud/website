@@ -4,17 +4,21 @@
   background-size: cover;
   background-position: center;
   color: #FFFFFF;
-  text-align: center;
-  margin-top:-75px
+  text-align: left;
 }
 
-#big_image_home h2 {font-weight: 200, margin-bottom}
+#big_image_home h2 {
+  font-weight: 300;
+  }
 
-#bouton_recettes {margin-top: 50px; text-align: center}
+#button-bottom {
+  text-align: center;
+
+}
 
 body {
-background-color: #79BDE0;
-font-weight: 300;
+background-color: #A0BDE0;
+font-weight: 400;
 font-family: 'Open Sans', sans-serif;
 }
 
@@ -28,7 +32,7 @@ body h3 {
 }
 
 #footer {
-  background-color: #79BDE0;
+  background-color: #A0BDE0;
   padding: 30px;
   font-size: 20px;
   color:white;
