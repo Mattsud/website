@@ -16,6 +16,13 @@
 
 }
 
+#image-container {
+  width: 50%;
+  background-color: rgba(60, 71, 84, 0.2);
+  padding: 20px;
+  border-radius: 10px;
+}
+
 body {
 background-color: #A0BDE0;
 font-weight: 400;
